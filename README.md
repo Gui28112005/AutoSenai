@@ -1,4 +1,7 @@
 
+![Alt Text](https://www.canva.com/design/DAF7lO_Bvrs/raTo2cBxYi67l8bEqVkW5w/view?utm_content=DAF7lO_Bvrs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+
 # Projeto: Autoatendimento Senai São Carlos
 
 - Área: Setor de apoios
